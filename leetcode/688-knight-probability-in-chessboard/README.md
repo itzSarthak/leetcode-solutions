@@ -53,3 +53,16 @@ Memory: 11.3 MB
 
 Notes:
 3D Dp
+
+### 2. Tabulation
+
+File:
+`tabulation.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 11 ms
+Memory: 11.3 MB
+
+Notes:
+Not recorded.

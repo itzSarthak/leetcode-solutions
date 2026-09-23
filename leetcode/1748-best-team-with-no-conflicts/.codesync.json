@@ -14,6 +14,15 @@
       "status": "Accepted",
       "runtime": "229 ms",
       "memory": "138.1 MB"
+    },
+    {
+      "name": "Tabulation",
+      "file": "tabulation.cpp",
+      "notes": "",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "144 ms",
+      "memory": "138.2 MB"
     }
   ]
 }

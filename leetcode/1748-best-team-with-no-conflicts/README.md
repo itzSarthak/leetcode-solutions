@@ -56,3 +56,16 @@ Memory: 138.1 MB
 
 Notes:
 Std LIS
+
+### 2. Tabulation
+
+File:
+`tabulation.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 144 ms
+Memory: 138.2 MB
+
+Notes:
+Not recorded.

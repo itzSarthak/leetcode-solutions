@@ -60,3 +60,16 @@ Memory: 16.7 MB
 
 Notes:
 Std LCS
+
+### 2. Tabulation
+
+File:
+`tabulation.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 7 ms
+Memory: 16.8 MB
+
+Notes:
+Std LCS

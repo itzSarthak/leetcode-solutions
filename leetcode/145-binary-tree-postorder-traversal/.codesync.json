@@ -1,0 +1,19 @@
+{
+  "number": "145",
+  "title": "Binary Tree Postorder Traversal",
+  "slug": "binary-tree-postorder-traversal",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2157381524/",
+  "description": "Given the root of a binary tree, return the postorder traversal of its nodes' values.\n\n \nExample 1:\n\n\nInput: root = [1,null,2,3]\n\nOutput: [3,2,1]\n\nExplanation:\n\n\n\n\nExample 2:\n\n\nInput: root = [1,2,3,4,5,null,8,null,null,6,7,9]\n\nOutput: [4,6,7,5,2,9,8,3,1]\n\nExplanation:\n\n\n\n\nExample 3:\n\n\nInput: root = []\n\nOutput: []\n\n\nExample 4:\n\n\nInput: root = [1]\n\nOutput: [1]\n\n\n \nConstraints:\n\n\n\tThe number of the nodes in the tree is in the range [0, 100].\n\t-100 <= Node.val <= 100\n\n\n \nFollow up: Recursive solution is trivial, could you do it iteratively?",
+  "methods": [
+    {
+      "name": "PostOrder (Recursive)",
+      "file": "postorder-recursive.cpp",
+      "notes": "",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "11.2 MB"
+    }
+  ]
+}

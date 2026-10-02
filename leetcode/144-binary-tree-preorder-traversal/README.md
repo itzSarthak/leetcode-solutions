@@ -73,3 +73,16 @@ Memory: 10.9 MB
 
 Notes:
 Not recorded.
+
+### 2. Iterative (Preorder)
+
+File:
+`iterative-preorder.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 11 MB
+
+Notes:
+Not recorded.

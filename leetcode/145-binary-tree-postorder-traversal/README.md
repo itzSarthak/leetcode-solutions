@@ -73,3 +73,16 @@ Memory: 11.2 MB
 
 Notes:
 Not recorded.
+
+### 2. PostOrder (Iterative)
+
+File:
+`postorder-iterative.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 11.1 MB
+
+Notes:
+Not recorded.

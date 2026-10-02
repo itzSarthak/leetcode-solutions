@@ -14,6 +14,15 @@
       "status": "Accepted",
       "runtime": "0 ms",
       "memory": "11 MB"
+    },
+    {
+      "name": "Iterative (Inorder)",
+      "file": "iterative-inorder.cpp",
+      "notes": "",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "10.9 MB"
     }
   ]
 }

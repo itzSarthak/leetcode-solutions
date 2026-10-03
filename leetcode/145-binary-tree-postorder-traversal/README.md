@@ -86,3 +86,16 @@ Memory: 11.1 MB
 
 Notes:
 Not recorded.
+
+### 3. Iterative (Single Stack)
+
+File:
+`iterative-single-stack.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 11 MB
+
+Notes:
+Not recorded.

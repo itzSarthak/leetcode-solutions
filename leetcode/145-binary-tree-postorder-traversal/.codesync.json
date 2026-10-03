@@ -23,6 +23,15 @@
       "status": "Accepted",
       "runtime": "0 ms",
       "memory": "11.1 MB"
+    },
+    {
+      "name": "Iterative (Single Stack)",
+      "file": "iterative-single-stack.cpp",
+      "notes": "",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "11 MB"
     }
   ]
 }

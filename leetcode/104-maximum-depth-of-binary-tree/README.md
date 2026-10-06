@@ -43,3 +43,16 @@ Memory: 22 MB
 
 Notes:
 Not recorded.
+
+### 2. Iterative
+
+File:
+`iterative.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 22.3 MB
+
+Notes:
+Not recorded.

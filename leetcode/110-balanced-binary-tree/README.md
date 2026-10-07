@@ -47,3 +47,16 @@ Memory: 23.1 MB
 
 Notes:
 Using Height of Sub Tree
+
+### 2. Optimised
+
+File:
+`optimised.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 23.1 MB
+
+Notes:
+Give me the height but also tell me if SubTree is Balanced

@@ -14,6 +14,15 @@
       "status": "Accepted",
       "runtime": "3 ms",
       "memory": "23.1 MB"
+    },
+    {
+      "name": "Optimised",
+      "file": "optimised.cpp",
+      "notes": "Give me the height but also tell me if SubTree is Balanced",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "23.1 MB"
     }
   ]
 }

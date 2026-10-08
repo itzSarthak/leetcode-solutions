@@ -14,6 +14,15 @@
       "status": "Accepted",
       "runtime": "333 ms",
       "memory": "23.7 MB"
+    },
+    {
+      "name": "Optimised",
+      "file": "optimised.cpp",
+      "notes": "",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "23.9 MB"
     }
   ]
 }

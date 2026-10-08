@@ -46,3 +46,16 @@ Memory: 23.7 MB
 
 Notes:
 Not recorded.
+
+### 2. Optimised
+
+File:
+`optimised.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 23.9 MB
+
+Notes:
+Not recorded.

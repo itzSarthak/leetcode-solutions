@@ -14,6 +14,15 @@
       "status": "Accepted",
       "runtime": "0 ms",
       "memory": "15.5 MB"
+    },
+    {
+      "name": "DFS",
+      "file": "dfs.cpp",
+      "notes": "Using Reverse PreOrder",
+      "language": "cpp",
+      "status": "Accepted",
+      "runtime": "0 ms",
+      "memory": "14.8 MB"
     }
   ]
 }

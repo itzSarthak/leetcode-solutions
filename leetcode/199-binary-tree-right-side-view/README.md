@@ -69,3 +69,16 @@ Memory: 15.5 MB
 
 Notes:
 Using LevelOrder
+
+### 2. DFS
+
+File:
+`dfs.cpp`
+
+Language: cpp
+Status: Accepted
+Runtime: 0 ms
+Memory: 14.8 MB
+
+Notes:
+Using Reverse PreOrder
